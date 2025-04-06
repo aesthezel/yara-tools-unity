@@ -1,0 +1,21 @@
+{
+    "name": "com.VenezuelaDevs.YaraTools",
+    "version": "0.0.1",
+    "displayName": "Yara Tools",
+    "description": "Yet Another Random Assets, useful tools to bootstrap your project",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/aesthezel/yara-tools-unity",
+    "changelogUrl": "https://github.com/aesthezel/yara-tools-unity",
+    "licensesUrl": "https://github.com/aesthezel/yara-tools-unity",
+    "keywords": [
+        "bootstrap",
+        "patterns",
+        "tools",
+        "code"
+    ],
+    "author": {
+        "name": "Venezuela Devs",
+        "email": "aesthezel@proton.me",
+        "url": "https://github.com/aesthezel/yara-tools-unity"
+    }
+}
