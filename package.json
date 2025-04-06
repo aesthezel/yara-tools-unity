@@ -1,5 +1,5 @@
 {
-    "name": "com.venezuela-devs.yara-tools",
+    "name": "com.venezuelandevs.yaratools",
     "version": "0.0.1",
     "displayName": "Yara Tools",
     "description": "Yet Another Random Assets, useful tools to bootstrap your project",
@@ -14,7 +14,7 @@
         "code"
     ],
     "author": {
-        "name": "Venezuela Devs",
+        "name": "Venezuelan Devs",
         "email": "aesthezel@proton.me",
         "url": "https://github.com/aesthezel/yara-tools-unity"
     }
