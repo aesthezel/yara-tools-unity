@@ -4,9 +4,9 @@
     "displayName": "Yara Tools",
     "description": "Yet Another Random Assets, useful tools to bootstrap your project",
     "unity": "2022.3",
-    "documentationUrl": "https://github.com/aesthezel/yara-tools-unity",
-    "changelogUrl": "https://github.com/aesthezel/yara-tools-unity",
-    "licensesUrl": "https://github.com/aesthezel/yara-tools-unity",
+    "documentationUrl": "https://github.com/aesthezel/yara-tools-unity/tree/main/Documentation~",
+    "changelogUrl": "https://raw.githubusercontent.com/aesthezel/yara-tools-unity/refs/heads/main/CHANGELOG.md",
+    "licensesUrl": "https://raw.githubusercontent.com/aesthezel/yara-tools-unity/refs/heads/main/LICENSE.md",
     "keywords": [
         "bootstrap",
         "patterns",
