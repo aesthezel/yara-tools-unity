@@ -1,5 +1,9 @@
 # YaraTools — Changelog — Español
 
+## [0.0.4] - Abril 7 del 2025
+- Object Pooling Manager
+    - Added getActive / genInactive returns an array of Active / Inactive instances in pool
+
 ## [0.0.3] - Abril 7 del 2025
 - Object Pooling Manager
     - Add instance / multiple instances
