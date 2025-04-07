@@ -67,6 +67,16 @@ namespace YaraTools.Patterns.Creational
             return count;
         }
 
+        public T[] getActive()
+        {
+            List<T> x = null;
+
+            foreach (T i in pool)
+            { if (i.gameObject.activeSelf) { x.Add(i); } }
+
+            return x.ToArray();
+        }
+
         public int getInactiveCount()
         {
             int count = 0;
@@ -74,6 +84,16 @@ namespace YaraTools.Patterns.Creational
             { if (!i.gameObject.activeSelf) { count++; } }
 
             return count;
+        }
+
+        public T[] getInactive()
+        {
+            List<T> x = null;
+
+            foreach (T i in pool)
+            { if (!i.gameObject.activeSelf) { x.Add(i); } }
+
+            return x.ToArray();
         }
 
         public void clearPool()
