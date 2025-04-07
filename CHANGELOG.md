@@ -1,5 +1,13 @@
 # YaraTools — Changelog — Español
 
+## [0.0.3] - Abril 7 del 2025
+- Object Pooling Manager
+    - Add instance / multiple instances
+    - Delete instances in pool
+    - Deactivate instances
+    - Prewarm pool
+    - Get active/inactive instances quantity
+
 ## [0.0.2] - Abril 6 del 2025
 - Adjustes de erratas y configuración del paquete
 

@@ -1,6 +1,6 @@
 {
     "name": "com.venezuelandevs.yaratools",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "displayName": "Yara Tools",
     "description": "Yet Another Random Assets, useful tools to bootstrap your project",
     "unity": "2022.3",
